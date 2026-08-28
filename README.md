@@ -17,7 +17,13 @@ $ cat objetivos.txt
 
 ## 🚀 Projeto em destaque
 
-**[Assistente IA](https://github.com/Matheus-Giampa/assistente-ia)** — app de micro-learning por voz. Conversa em tempo real com o Gemini Live em cenários de roleplay (entrevista de emprego, pedir café, aula de idiomas), backend em FastAPI, frontend em React/TypeScript.
+<a href="https://github.com/Matheus-Giampa/assistente-ia">
+  <img align="left" src="https://github-stats-extended.vercel.app/api/pin/?username=Matheus-Giampa&repo=assistente-ia&theme=dark" />
+</a>a>
+
+**Assistente IA** — app de micro-learning por voz. Conversa em tempo real com o Gemini Live em cenários de roleplay (entrevista de emprego, pedir café, aula de idiomas), backend em FastAPI, frontend em React/TypeScript.
+
+<br clear="left"/>
 
 ## 🛠️ Stack
 
@@ -33,6 +39,10 @@ $ cat objetivos.txt
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Redes-black?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OneTrust](https://img.shields.io/badge/OneTrust%20Privacy-6D28D9?style=for-the-badge)
+
+## 📊 Estatísticas do GitHub
+
+<img src="https://github-stats-extended.vercel.app/api?username=Matheus-Giampa&show_icons=true&theme=dark&hide_border=true" />
 
 <div align="center">
 
