@@ -17,11 +17,9 @@ $ cat objetivos.txt
 
 ## 🚀 Projeto em destaque
 
-<a href="https://github.com/Matheus-Giampa/assistente-ia">
-  <img align="left" src="https://github-stats-extended.vercel.app/api/pin/?username=Matheus-Giampa&repo=assistente-ia&theme=dark" />
-</a>a>
+<img align="left" src="https://github-stats-extended.vercel.app/api/pin/?username=Matheus-Giampa&repo=assistente-ia&theme=dark" />
 
-**Assistente IA** — app de micro-learning por voz. Conversa em tempo real com o Gemini Live em cenários de roleplay (entrevista de emprego, pedir café, aula de idiomas), backend em FastAPI, frontend em React/TypeScript.
+**[Assistente IA](https://github.com/Matheus-Giampa/assistente-ia)** — app de micro-learning por voz. Conversa em tempo real com o Gemini Live em cenários de roleplay (entrevista de emprego, pedir café, aula de idiomas), backend em FastAPI, frontend em React/TypeScript.
 
 <br clear="left"/>
 
