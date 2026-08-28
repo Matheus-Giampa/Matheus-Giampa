@@ -40,6 +40,6 @@ $ cat objetivos.txt
 
 <div align="center">
 
-📫 **matheusgiampaoli@gmail.com** &nbsp;·&nbsp; 📍 São Paulo, Brasil &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/matheusgiampaoli-2107652b8)
+📫 **matheusgiampaoli@gmail.com** &nbsp;·&nbsp; 📍 São Paulo, Brasil &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/matheus-giampaoli-2107652b8)
 
 </div>
